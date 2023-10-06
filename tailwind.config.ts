@@ -16,6 +16,9 @@ const config: Config = {
       backgroundColor: {
         'dark-blue': '#4c4cad', // You can use your desired dark blue color code here
       },
+      textColor: {
+        'blue': '#4c4cad', // You can use your desired dark blue color code here
+      },
     },
   },
   plugins: [],
